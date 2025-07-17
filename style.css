@@ -9,3 +9,28 @@ nav{
     justify-content: space-between;
 
 }
+.serc input{
+    border-radius: 10px;
+    width: 400px;
+    padding: 12px;
+    border: 2px solid rgb(173, 159, 159);
+    
+}
+.serc i{
+    position: absolute;
+    top: 21px;
+    left:950px;
+}
+ul li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color:#707070;
+    font-size: 16px;
+   
+}
+ul{
+    display: flex;
+    gap: 10px;
+}
