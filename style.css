@@ -35,3 +35,31 @@ ul{
     display: flex;
     gap: 20px;
 }
+.banner{
+    display: flex;
+    justify-content: space-between;
+.h2-title{
+    font-size: 56px;
+    color: #1F1F1F;
+}
+.p-description{
+    font-size: 26px;
+    color:#4E4E4E;
+}
+.btn-1{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background:#FF136F;
+    cursor: pointer;
+    border: 2px solid #FF136F;
+    transition: 0.7s ease;
+    color:white
+}
+.btn-1:hover{
+    color:black;
+}
+.price{
+    font-size: 41px;
+    font-weight:600;
+    color: #FF136F;
+}
